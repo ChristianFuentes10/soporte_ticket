@@ -1,4 +1,4 @@
-package com.api_soporte_ticket.soporte_ticket;
+package com.api_soporte_ticket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
